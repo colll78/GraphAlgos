@@ -1,5 +1,5 @@
 // AStarGraph.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
 #include "SimpleGraph.h"
 #include "WeightedGrid.h"
 #include <iostream>
